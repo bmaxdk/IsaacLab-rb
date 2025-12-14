@@ -64,3 +64,16 @@ Run policy from the normalization factor
 - `--num_rollouts`: how many episodes to run.
 - `--horizon`: max steps per rollout.
 - Checkpoints are typically saved inside the run directory under a `checkpoints/` folder 
+
+
+<!-- <p align="center">
+  <img src="images/gif-PickPlace-GR1T2-Abs-v0.gif" alt="Subtask splitting example" width="2070">
+</p>
+ -->
+
+
+<p align="center">
+  <img src="images/demo.gif" alt="Subtask splitting example" width="970">
+</p>
+
+
