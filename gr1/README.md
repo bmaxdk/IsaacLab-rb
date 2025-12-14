@@ -1,5 +1,5 @@
 #
-## Create a symlink so [train.py](./scripts/imitation_learning/robomimic/train.py) finds [`robomimic`](../scripts/imitation_learning/robomimic)
+## Create a symlink so [train.py](../scripts/imitation_learning/robomimic/train.py) finds [`robomimic`](../scripts/imitation_learning/robomimic)
 
 Validate the import robomimic
 ```bash
